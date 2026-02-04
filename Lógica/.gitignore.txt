@@ -1,0 +1,14 @@
+# Ignorar executáveis e objetos compilados
+*.exe
+*.o
+*.obj
+
+# Ignorar pastas de lixo do Code::Blocks
+bin/
+obj/
+.vscode/
+
+# Ignorar o banco de dados local (opcional, mas recomendado)
+# Assim você não sobe seus dados de teste para a nuvem
+dados/
+*.txt

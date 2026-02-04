@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1769954075 source:c:\users\wesley\onedrive\documentos\treinamento\lógica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1770159134 source:c:\users\wesley\onedrive\documentos\treinamento\lógica\interface.c
+	"interface.h"
+
+1770159134 c:\users\wesley\onedrive\documentos\treinamento\lógica\interface.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
