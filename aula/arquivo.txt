@@ -1,5 +1,0 @@
-===Lista de produtos===
- ID | NOME | PRECO | QUANTIDADE
-23 | rty     | 56.00 | 3
-4678 | fvb     | 23.00 | 1
-123 | faca   | 50.00 | 2
